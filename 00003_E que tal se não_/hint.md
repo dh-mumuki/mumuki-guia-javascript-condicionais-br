@@ -1,0 +1,1 @@
+A diferença do exercício anterior para este é que não está pedindo para imprimir (`console.log ()`) uma string, e sim que a função retorne (`return`) um booleano.
