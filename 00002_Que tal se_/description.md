@@ -3,7 +3,7 @@ Nenhuma introdução a Javascript estaria completa sem mostrar a estrutura de co
 O `if` nos permite executar um código de acordo com uma condição.
 
 Um exemplo da vida real poderia ser:
-**¡Se o dia está ensolarado, vamos para a praia!**. Como pode ver, no exemplo anterior estamos dando uma condição, a ida para a praia só acontecerá se o dia estiver ensolarado.
+**Se o dia está ensolarado, vamos para a praia!** Como pode ver, no exemplo anterior estamos dando uma condição, a ida para a praia só acontecerá se o dia estiver ensolarado.
 
 Muito bem, como podemos transcrever o que vimos para  código? Primeiro devemos entender que o if se divide em 3 partes :
 
