@@ -11,7 +11,7 @@ function eMaiorDeIdade(idade) {
   }
 }
 ```
-No entanto, se olharmos com mais detalhes, este `if` e` else` são totalmente desnecessários, já que a expressão `idade> = 18` já é uma expressão booleana, porque se pensarmos em` idade` como um número , o que estamos fazendo é perguntar se esse número é maior ou igual a 18. E essa pergunta tem apenas duas respostas possíveis, você adivinha quais são? Exatamente, 'true' ou 'falso'. Portanto, poderíamos tornar nosso código mais fácil fazendo isso:
+No entanto, se olharmos com mais detalhes, este `if` e` else` são totalmente desnecessários, já que a expressão `idade> = 18` já é uma expressão booleana, porque se pensarmos em` idade` como um número , o que estamos fazendo é perguntar se esse número é maior ou igual a 18. E essa pergunta tem apenas duas respostas possíveis, você adivinha quais são? Exatamente, 'true' ou 'false'. Portanto, poderíamos tornar nosso código mais fácil fazendo isso:
 
 ```javascript
 function eMaiorDeIdade(idade) {
@@ -28,7 +28,7 @@ function estaEntre(numero, base, limite) {
   return numero > base && numero < limite;
 }
 ```
-A função anterior retornará `true` se` numero` for maior que` base` e por sua vez menor que `limit`. Caso contrário, se estas condições não forem cumpridas, retornaremos "false".
+A função anterior retornará `true` se` numero` for maior que` base` e por sua vez menor que `limite`. Caso contrário, se estas condições não forem cumpridas, retornaremos "false".
 
 Ótimo, você não acha? Mas e se quiséssemos que uma função retornasse 'true' se apenas uma das condições fosse atendida? Para isso, podemos usar o operador `||` (que é lido como 'ou'). Vamos ver isso:
 
@@ -38,7 +38,7 @@ function eMaiorOuMenor(numero1, numero2, numero3) {
 }
 ```
 
-Neste cenário, a função `eMaiorOuMenor` retornará` true` se `numero2` for maior que` numero1` ou se `numero2` for menor que` numero3`. Com qualquer uma das condições sendo verdadeira, ela retornará `true`. Logicamente, se nenhuma das duas condições for verdadeira, a função retornará `false`. Super claro, não é?
+Neste cenário, a função `eMaiorOuMenor` retornará `true` se `numero2` for maior que `numero1` ou se `numero2` for menor que `numero3`. Com qualquer uma das condições sendo verdadeira, ela retornará `true`. Logicamente, se nenhuma das duas condições for verdadeira, a função retornará `false`. Super claro, não é?
 
 Outro cenário possível é talvez aquele em que queremos perguntar se algo é diferente de outra coisa. Você se lembra do operador `!`? Isso é chamado de negação ou não. Vamos ver isso em ação:
 
@@ -47,7 +47,7 @@ function eDiaDeTrabalho(diaDaSemana) {
   return diaDaSemana!= 'Sábado' && diaDaSemana!= 'Domingo';
 }
 ```
-Como você pode ver, a função `diaDaSemana` recebe um dia (string) por parâmetro e retornará ` true` se `diaDaSemana` não for domingo ou sábado. Caso contrário, se o dia for domingo ou sábado, ele retornará `false`.
+Como você pode ver, a função `diaDaSemana` recebe um dia (string) por parâmetro e retornará `true` se `diaDaSemana` não for domingo ou sábado. Caso contrário, se o dia for domingo ou sábado, ele retornará `false`.
 
 Perfeito Agora é a sua vez. Mostre que o acima foi completamente claro. Para fazer isso, ajude-nos a resolver o seguinte:
 
@@ -57,5 +57,5 @@ Mariana, uma grande amiga da casa, conta que para ela um número é sortudo se:
 2. é um múltiplo de 2 ou 3 e, por sua vez,
 3. não é 15
 
-> Eu escrevi a função `eNumeroDaSorte` que, recebendo um número, diz a Mariana se é um número da sorte. Lembre-se de que o número deve obedecer às três condições mencionadas.
+> Escreva a função `eNumeroDaSorte` que, recebendo um número, diz a Mariana se é um número da sorte. Lembre-se de que o número deve obedecer às três condições mencionadas.
 Seu desafio adicional será: NÃO use o `if`.
