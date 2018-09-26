@@ -5,7 +5,7 @@ describe("", function() {
 	it("Atribuido o valor \"domingo\" para  diaDeSemana", function() {
 	assert.equal(diaDeSemana, "domingo");
   });
-	it("deveria imprimir ''Hoje é dia de futebol!!!''", function() {
-	assert.equal(console.toString(), "Hoje é dia de futebol!!!");
+	 it("debería imprimir ''Hoy se juega al futbol!!!''", function() {
+    assert.equal(console.toString(), "Hoy se juega al futbol!!!");
   });
 })
