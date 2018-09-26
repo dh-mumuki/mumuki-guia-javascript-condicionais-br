@@ -3,6 +3,6 @@ describe("", function() {
 	assert.equal(hojeSeJoga("domingo"), "Hoje é dia de futebol!!!");
   });
   it("hojeSeJoga(\"terça\") devería dizer que não joga ", function() {
-	assert.equal(hoySeJuega("terça"), "Hoje não é dia de futebol :(");
+	assert.equal(hojeSeJoga("terça"), "Hoje não é dia de futebol :(");
   });
 })
