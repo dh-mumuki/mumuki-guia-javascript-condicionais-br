@@ -1,4 +1,4 @@
-Nenhuma introdução a Javascript estaria completa sem mostrar a estrutura de controle condicional, conhecida como if..
+Nenhuma introdução a Javascript estaria completa sem mostrar a estrutura de controle condicional, conhecida como if.
 
 O `if` nos permite executar um código de acordo com uma condição.
 
@@ -14,7 +14,7 @@ Muito bem, como podemos transcrever o que vimos para  código? Primeiro devemos 
 Vejamos um exemplo:
 
 ```javascript
-Let numero = 43;
+var numero = 43;
 
 if (numero > 0) {
 	console.log('O número é positivo');
@@ -31,8 +31,8 @@ if (eDiaEnsolarado == true) {
 }
 ```
 
-No exemplo anterior, `eDiaEnsolarado` sería uma variável que armazena um valor booleano, e sempre que  esse valor seja exatamente igual a `true`, vamos executar bloco de código que se encontra dentro das chaves  `{}`,  nesse caso, o `console.log`. Está fazendo mais sentido não?
+No exemplo anterior, `eDiaEnsolarado` seria uma variável que armazena um valor booleano, e sempre que  esse valor seja exatamente igual a `true`, vamos executar bloco de código que se encontra dentro das chaves  `{}`,  nesse caso, o `console.log`. Está fazendo mais sentido não?
 
 Vamos fazer uma pequena prática para ir entendendo o conceito.
 
-> Declara a variável `diaDeSemana` que receba uma string `"domingo"`. Depois implemente uma condicional usando o `if` que compare se `diaDeSemana` é igual a domingo `"domingo"`, se for verdadeiro imprima uma string `"Hoje é dia de futebol!!!"`.
+> Declara a variável `diaDeSemana` que receba uma string `"domingo"`. Depois implemente uma condicional usando o `if` que compare se `diaDeSemana` é igual a `"domingo"`, se for verdadeiro imprima uma string `"Hoje é dia de futebol!!!"`.
