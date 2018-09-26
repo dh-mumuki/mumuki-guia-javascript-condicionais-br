@@ -1,4 +1,4 @@
-describe("Descrição  do grupo", function() {
+describe("", function() {
   it("eMaior(10, 9)", function() {
 	assert.equal(eMaior(10, 9), 10)
   });
