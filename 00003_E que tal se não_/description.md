@@ -18,7 +18,7 @@ if (eDiaEnsolarado == true) {
 }
 ```
 
-A condicional `else` nos permite executar um bloco de código, caso que a condição do `if` não se cumpra, porém o else tem apenas duas partes:
+A condicional `else` nos permite executar um bloco de código, caso a condição do `if` não se cumpra, porém o else tem apenas duas partes:
 
 1. A palavra reservada `else`.
 2. O bloco de código que se executa caso a condição do `if` não se cumpra.
@@ -26,7 +26,7 @@ A condicional `else` nos permite executar um bloco de código, caso que a condi�
 Agora que sabemos como `if` e o `else` funciona, vamos ver um exemplo de uma função que nos retorna `true` se um número é maior que 5, ou `false` em caso contrário:
 
 ```javascript
-Function eMaior(umNumero) {
+function eMaior(umNumero) {
    if (umNumero > 5) {
  	return true;
    } else {
