@@ -26,7 +26,7 @@ describe("", () => {
   it("eNumeroDaSorte  é verdadeiro e  multiplo de 2", () => {
   	assert(eNumeroDaSorte(4654));
   })
-  it("eNumeroDaSorte é falso e multiplo de 2 ni de 3", () => {
+  it("eNumeroDaSorte é falso e multiplo de 2 ou de 3", () => {
   	assert(!eNumeroDaSorte(49));
   })
   it("eNumeroDaSorte(7) é falso", () => {
