@@ -11,7 +11,7 @@ function eMaiorDeIdade(idade) {
   }
 }
 ```
-No entanto, se olharmos com mais detalhes, este `if` e` else` são totalmente desnecessários, já que a expressão `idade> = 18` já é uma expressão booleana, porque se pensarmos em` idade` como um número , o que estamos fazendo é perguntar se esse número é maior ou igual a 18. E essa pergunta tem apenas duas respostas possíveis, você adivinha quais são? Exatamente, 'true' ou 'false'. Portanto, poderíamos tornar nosso código mais fácil fazendo isso:
+No entanto, se olharmos com mais detalhes, este `if` e` else` são totalmente desnecessários, já que a expressão `idade> = 18` já é uma expressão booleana, porque se pensarmos em` idade` como um número, o que estamos fazendo é perguntar se esse número é maior ou igual a 18. E essa pergunta tem apenas duas respostas possíveis, você adivinha quais são? Exatamente, 'true' ou 'false'. Portanto, poderíamos tornar nosso código mais fácil fazendo isso:
 
 ```javascript
 function eMaiorDeIdade(idade) {
