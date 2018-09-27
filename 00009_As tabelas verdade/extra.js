@@ -1,3 +1,3 @@
 function filosofoHipster(profissao, nacionalidade, kms) {
-  return profissao == "Músico" && nacionalidade == "Argentina" && kms > 2;
+  return profissao == "Músico" && nacionalidade == "Brasil" && kms > 2;
 }
