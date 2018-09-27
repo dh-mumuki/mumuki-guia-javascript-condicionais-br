@@ -6,8 +6,10 @@ Por exemplo, se analisarmos a seguinte função:
 
 
 ```javascript
-function eBomCantor(cdsEditados, recitaisRealizados, gravouAlgumCd) {
-        return cdsEditados > = 10 && recitaisRealizados > = 20 && gravouAlgumCd;
+function eBomCantor(cdsEditados, 
+recitaisRealizados, gravouAlgumCd) {
+        return cdsEditados > = 10 && 
+        recitaisRealizados > = 20 && gravouAlgumCd;
 }
 ```
 
