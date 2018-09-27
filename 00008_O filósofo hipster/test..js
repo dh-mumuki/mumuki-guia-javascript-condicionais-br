@@ -5,7 +5,7 @@ describe("Filósofo Hipster", function() {
    it("filosofoHipster('Jogador de Futebol', 'Brasil', 12)", function() {
     assert.equal(filosofoHipster('Jogador de Futebol', 'Brasil', 12), false)
   });
-  it("filosofoHipster('Músico', 'Argentina', 1)", function() {
+  it("('Músico', 'Argentina', 1)", function() {
     assert.equal(filosofoHipster('Músico', 'Argentina', 1), false)
   });
 })
