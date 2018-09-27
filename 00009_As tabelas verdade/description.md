@@ -32,11 +32,11 @@ Seguindo as abordagens filosóficas e analisando a seguinte tabela, podemos conc
 No mundo da lógica, essas expressões são chamadas de proposições. Mas ... o que pode ser uma proposição?
 Eles só precisam ter um valor de verdade, isto é, qualquer expressão booleana pode ser uma proposição.
 
-Você acredita em nós? Teste sua função `filosofoHipster` no console com os seguintes valores e verifique se ela se comporta como na tabela:
+Você acredita? Teste sua função `filosofoHipster` no console com os seguintes valores e verifique se ela se comporta como na tabela:
 
 ```javascript
-filosofoHipster('Músico', 'Argentina', 5) // true
-filosofoHipster('Futbolista', 'Brasil', 12) // false
+filosofoHipster('Músico', 'Brasil', 5) // true
+filosofoHipster('Jogador de Futebol', 'Alemanha', 12) // false
 filosofoHipster('Músico', 'Argentina', 1) // false
 filosofoHipster('Docente', 'Canadá', 12) // false
 ```
