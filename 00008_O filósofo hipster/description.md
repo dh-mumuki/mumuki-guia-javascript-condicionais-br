@@ -6,7 +6,7 @@ Por exemplo, se analisarmos a seguinte função:
 
 
 ```javascript
-funcao eBomCantor(cdsEditados, recitaisRealizados, gravouAlgumCd) {
+function eBomCantor(cdsEditados, recitaisRealizados, gravouAlgumCd) {
         return cdsEditados > = 10 && recitaisRealizados > = 20 && gravouAlgumCd;
 }
 ```
@@ -16,12 +16,12 @@ Podemos perceber que é necessário que um cantor não tenha gravado um DVD para
 Como sempre, agora é a sua vez.
 
 
-> Defina a função `filosofoHipster` que recebe como parâmetro: a profissão de uma pessoa (string), nacionalidade (string) e o número de quilômetros que ele anda por dia (número). E para avaliar se essa pessoa é ou não (`true / false`), um filósofo Hipster. Tenha em mente que um filósofo Hipster é alguém da Argentina, um músico e que gosta de andar mais de 2 quilômetros por dia.
+> Defina a função `filosofoHipster` que recebe como parâmetro: a profissão de uma pessoa (string), nacionalidade (string) e o número de quilômetros que ele anda por dia (número). E para avaliar se essa pessoa é ou não (`true / false`), um filósofo Hipster. Tenha em mente que um filósofo Hipster é alguém do Brasil, um músico e que gosta de andar mais de 2 quilômetros por dia.
 
 
 ```javascript
 Exemplo:
-filosofoHipster ('Músico', 'Argentina', 5) // verdadeiro
-filosofoHipster ('Jogador de futebol', 'Brasil', 12) // false
+filosofoHipster ('Músico', 'Brasil', 5) // verdadeiro
+filosofoHipster ('Jogador de futebol', 'Alemanha', 12) // false
 filosofoHipster ('Músico', 'Argentina', 1) // false
 
