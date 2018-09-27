@@ -2,7 +2,7 @@ Surpreendente! Cada vez mais você está aprendendo como manipular condicionais 
 
 Primeiro de tudo precisamos saber que um banco está fechado quando **é fim de semana (sábado ou domingo)** e não está no horário bancário (9 às 15hs).
 
-> Agora é com você. Defina a função `possoIrAoBanco` que, receba dois parâmetros, o primeiro é  `diaDaSemana` (string)  e o segundo `horaActual`(number), a função deve retornar `true`, apenas se o banco estiver aberto.
+> Agora é com você. Defina a função `possoIrAoBanco` que, receba dois parâmetros, o primeiro é  `diaDaSemana` (string)  e o segundo `horaAtual`(numero), a função deve retornar `true`, apenas se o banco estiver aberto.
 
 Exemplo:
 
