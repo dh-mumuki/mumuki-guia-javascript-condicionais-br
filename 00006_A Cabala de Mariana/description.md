@@ -19,7 +19,7 @@ function eMaiorDeIdade(idade) {
 }
 ```
 
-Maravilhoso, não é? é por isso que o JavaScript é demais!
+Maravilhoso, não é? É por isso que o JavaScript é demais!
  
 Agora, o que aconteceria se quiséssemos ter mais condições para ser avaliado, querendo que todas fossem atendidas? A única coisa que precisamos é usar o operador `&&` (que é lido como 'e'). Vamos ver um exemplo:
 
