@@ -1,4 +1,4 @@
-Você pode não se lembrar bem disso, mas quando passamos pela escola nós aprendemos que quando uma expressão matemática tem vários operadores, as multiplicações e divisões serão feitas antes que a adição e a subtração sejam feitas após as adições, isso é chamado ** precedência ** Vamos ver um exemplo simples:
+Você pode não se lembrar bem disso, mas quando passamos pela escola nós aprendemos que quando uma expressão matemática tem vários operadores, as multiplicações e divisões serão feitas antes que a adição e a subtração sejam feitas após as adições, isso é chamado **precedência** Vamos ver um exemplo simples:
 
 ```javascript
 5 * 3 + 8 / 4 - 3 = 14
