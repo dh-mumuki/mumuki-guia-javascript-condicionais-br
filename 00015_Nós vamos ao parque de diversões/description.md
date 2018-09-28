@@ -6,7 +6,7 @@ No parque de diversões da cidade, eles instalaram uma nova montanha-russa e nos
 * Atingir a altura mínima de 1,5 m (ou 1,2 m, se acompanhada por um adulto)
 * Não ter qualquer problema cardíaco
 
-> Eu defini a função `podeSubir`, recebendo 3 parâmetros: alturaPessoa (numero), vemComCompania (booleano), temProblemaCardiaco (booleano), retorne `true` ou `false` conforme o caso. Levar em conta as condições necessárias mencionadas acima.
+> Defina a função `podeSubir`, recebendo 3 parâmetros: alturaPessoa (numero), vemComCompania (booleano), temProblemaCardiaco (booleano), retorne `true` ou `false` conforme o caso. Levar em conta as condições necessárias mencionadas acima.
 >
 > ```javascript
 > ム podeSubir(1.7, false, true)
