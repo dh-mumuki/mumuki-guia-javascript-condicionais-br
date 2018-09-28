@@ -1,16 +1,16 @@
-it("la disyunción lógica excluyente entre true y true da false", function() {
+it("a disjunção lógica exclusiva entre true e true é false", function() {
   assert.equal(xor(true, true), false);
 })
 
-it("la disyunción lógica excluyente entre true y false da true", function() {
+it("a disjunção lógica exclusiva entre true e false é true", function() {
   assert.equal(xor(true, false), true);
 })
 
-it("la disyunción lógica excluyente entre false y true da true", function() {
+it("a disjunção lógica exclusiva entre false e true é true", function() {
   assert.equal(xor(false, true), true);
 })
 
-it("la disyunción lógica excluyente entre false y false da false", function() {
+it("a disjunção lógica exclusiva entre false e false é false", function() {
   assert.equal(xor(false, false), false);
 })
 
