@@ -1,4 +1,3 @@
-describe("", function() {
 it ("a disjunção lógica exclusiva entre verdadeiro e verdadeiro dá falso", function () {
   assert.equal(xor(true, true), false);
 })
@@ -13,5 +12,5 @@ it("a disjunção lógica exclusiva entre falso e verdadeiro dá verdadeiro", fu
 
 it("a disjunção lógica exclusiva entre falso e falso dá falso", function() {
   assert.equal(xor(false, false), false);
-});
 })
+
