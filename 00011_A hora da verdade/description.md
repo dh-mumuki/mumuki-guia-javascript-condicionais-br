@@ -1,4 +1,4 @@
-Agora vamos pensar qual seria a tabela de verdade que representa o comportamento da função que você acabou de fazer.
+Agora vamos pensar qual seria a tabela verdade que representa o comportamento da função que você acabou de fazer.
  
 As proposições serão `temAMesmaMae` e` temOMesmoPai`, porque elas carregam um valor booleano (` true / false`) dependendo de quais pessoas estão sendo avaliadas.
 
