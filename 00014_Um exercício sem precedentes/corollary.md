@@ -6,5 +6,5 @@ function podeSeAposentar(idade, sexo, anosContribuicoes) {
 }
 ```
 
-** Ao delegar corretamente **, há momentos em que não é necessário alterar a ordem de precedência, outro ponto a favor da delegação! :muscle:
+**Ao delegar corretamente**, há momentos em que não é necessário alterar a ordem de precedência, outro ponto a favor da delegação! :muscle:
 

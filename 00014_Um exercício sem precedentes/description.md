@@ -4,7 +4,7 @@ Exatamente como dissemos no início do exercício anterior, como em matemática,
 
 Agora é a sua vez:
 
-> Eu escrevi a função  `podeSeAposentar` que recebe por parâmetro a idade, o sexo e também, os anos de contribuição previdenciária que uma pessoa tem, exemplo:
+> Escreva a função  `podeSeAposentar` que recebe por parâmetro a idade, o sexo e também, os anos de contribuição previdenciária que uma pessoa tem, exemplo:
 
 > ```javascript
 > ム podeSeAposentar(62, "F", 34)
