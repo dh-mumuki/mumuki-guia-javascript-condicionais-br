@@ -4,8 +4,8 @@ Todos nós sabemos que as árvores genealógicas podem se tornar complicadas qua
 
 Certamente você conhece o romance Cem Anos de Solidão, em que acompanhar aqueles que são irmãos e meio-irmãos se torna um pouco confuso, porque a linhagem cruzou várias vezes, então para colocar alguns exemplos:
 
-Arcadio é filho de José Arcadio e de Pilar Ternera
-Aureliano José é filho do Coronel Aureliano e Pilar Ternera
+Arcadio é filho de José Arcadio e de Pilar Ternera.
+Aureliano José é filho do Coronel Aureliano e Pilar Ternera.
 Aureliano Segundo e Remedios são filhos de Arcadio e Sofía De La Piedad
 
 Portanto poderíamos definir que Arcadio e Aureliano José são meio irmãos eles têm a mesma mãe, mas não o mesmo pai.
