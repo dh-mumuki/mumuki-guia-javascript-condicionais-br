@@ -1,4 +1,4 @@
-Surpreendente! Cada vez mais você está aprendendo como manipular condicionais muito melhor. Agora vamos criar uma função que nos diga se o banco está fechado? Uma Dory: :tropical_fish: Sim, então vamos ajudá-la a saber se ela deve ir ao banco ou não através de uma função.
+Surpreendente! Cada vez mais você está aprendendo como manipular condicionais muito melhor. Agora vamos criar uma função que nos diga se o banco está fechado?
 
 Primeiro de tudo precisamos saber que um banco está fechado quando **é fim de semana (sábado ou domingo)** e não está no horário bancário (9 às 15hs).
 
