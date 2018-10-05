@@ -1,6 +1,6 @@
 Melhor impossível. Agora que vimos como usar o `if`, é hora de um pequeno segredo: se você usa expressões booleanas corretamente, você não precisa usar essa estrutura de controle! Ótimo, certo? Mas ... não conte a ninguém 🤓
 
-Como é este? Suponha que queremos definir a função `eMaiorDeIdade`, que nos diz se alguém tem 18 anos de idade ou mais. Talvez nossa primeira abordagem seja a seguinte:
+Como isso funciona? Suponha que queremos definir a função `eMaiorDeIdade`, que nos diz se alguém tem 18 anos de idade ou mais. Talvez nossa primeira abordagem seja a seguinte:
 
 ```javascript
 function eMaiorDeIdade(idade) {
@@ -21,7 +21,7 @@ function eMaiorDeIdade(idade) {
 
 Maravilhoso, não é? É por isso que o JavaScript é demais!
  
-Agora, o que aconteceria se quiséssemos ter mais condições para ser avaliado, querendo que todas fossem atendidas? A única coisa que precisamos é usar o operador `&&` (que é lido como 'e'). Vamos ver um exemplo:
+Agora, o que aconteceria se quiséssemos ter mais condições para serem avaliadas, querendo que todas fossem atendidas? A única coisa que precisamos é usar o operador `&&` (que é lido como 'e'). Vamos ver um exemplo:
 
 ```javascript
 function estaEntre(numero, base, limite) {
@@ -49,9 +49,9 @@ function eDiaDeTrabalho(diaDaSemana) {
 ```
 Como você pode ver, a função `diaDaSemana` recebe um dia (string) por parâmetro e retornará `true` se `diaDaSemana` não for domingo ou sábado. Caso contrário, se o dia for domingo ou sábado, ele retornará `false`.
 
-Perfeito Agora é a sua vez. Mostre que o acima foi completamente claro. Para fazer isso, ajude-nos a resolver o seguinte:
+Perfeito! Agora é a sua vez. Mostre que o texto acima foi completamente claro. Para fazer isso, ajude-nos a resolver o seguinte:
 
-Mariana, uma grande amiga da casa, conta que para ela um número é sortudo se:
+Mariana conta que para ela um número é sortudo se:
 
 1. é positivo, e por sua vez
 2. é um múltiplo de 2 ou 3 e, por sua vez,
