@@ -18,7 +18,7 @@ if (eDiaEnsolarado == true) {
 }
 ```
 
-A condicional `else` nos permite executar um bloco de código, caso a condição do `if` não se cumpra, porém o `else` tem apenas duas partes:
+A condicional `else` nos permite executar um bloco de código, caso a condição do `if` não se cumpra, porém o else tem apenas duas partes:
 
 1. A palavra reservada `else`.
 2. O bloco de código que se executa caso a condição do `if` não se cumpra.

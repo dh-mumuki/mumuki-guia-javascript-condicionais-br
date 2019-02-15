@@ -9,7 +9,7 @@ Muito bem, como podemos transcrever o que vimos para  código? Primeiro devemos 
 
 1. A palavra reservada `if`.
 2. A condição que queremos validar, ela deve ficar entre parênteses **()**.
-3. O bloco de código que é executado quando a condição se cumpre (ou seja quando ela é `true` -verdadeira-) e deve ficar entre chaves **{}**.
+3. O bloco de código que é executado quando a condição se cumpre (ou seja quando ela é `true` -verdadeira-), e deve ficar entre chaves **{}**.
 
 Vejamos um exemplo:
 
