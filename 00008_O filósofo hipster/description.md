@@ -15,8 +15,6 @@ recitaisRealizados, gravouAlgumCd) {
 
 Podemos perceber que para um cantor ser considerado um bom cantor, ele precisa ter participado de pelo menos 10 CDs, tenha realizado 20 ou mais recitais e que tenha gravado algum CDs.
 
-Podemos perceber que não é necessário que um cantor tenha gravado um DVD para ser considerado bem-sucedido 😞 mesmo que tenha editado 10 ou mais CDs e tenha realizado 20 ou mais recitais.
-
 Como sempre, agora é a sua vez.
 
 
