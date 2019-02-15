@@ -6,6 +6,18 @@ const pedroTernera = {
   nome: "Pedro Ternera"
 };
 
+const gloriaPires = {
+  nome: "Gloria Pires"
+};
+
+const fabioJunior = {
+  nome: "Fabio Junior"
+};
+
+const cristinaKarthalian = {
+  nome: "Cristina Karthalian"
+};
+
 const sofiaMontiel = {
   nome: "Sofía Montiel"
 };
@@ -18,6 +30,18 @@ const pilarTernera = {
   nome: "Pilar Ternera",
   mae: mariaDeLosRemedios,
   pai: pedroTernera
+};
+
+const cleo = {
+  nome: "Cleo Pires",
+  mae: gloriaPires,
+  pai: fabioJunior
+};
+
+const fiuk = {
+  nome: "Pilar Ternera",
+  mae: cristinaKarthalian,
+  pai: fabioJunior
 };
 
 const ursulaIguaran = {
@@ -71,11 +95,11 @@ const remedios = {
 };
 
 function maeDe(persona) {
-  return persona.madre.nome;
+  return persona.mae.nome;
 };
 
 function paiDe(persona) {
-  return persona.padre.nome;
+  return persona.pai.nome;
 };
 
 function temOMesmoPai(unaPersona, otraPersona) {

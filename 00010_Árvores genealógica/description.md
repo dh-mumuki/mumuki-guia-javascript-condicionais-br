@@ -1,25 +1,15 @@
-Estamos indo agora com um desafio um pouco mais complexo.
-
-Todos nós sabemos que as árvores genealógicas podem se tornar complicadas quando há muitas pessoas e relacionamentos envolvidos.
-
-Certamente você conhece o romance Cem Anos de Solidão, em que acompanhar aqueles que são irmãos e meio-irmãos se torna um pouco confuso, porque a linhagem cruzou várias vezes, então para colocar alguns exemplos:
-
-Arcadio é filho de José Arcadio e de Pilar Ternera.
-Aureliano José é filho do Coronel Aureliano e Pilar Ternera.
-Aureliano Segundo e Remedios são filhos de Arcadio e Sofía De La Piedad
-
-Portanto poderíamos definir que Arcadio e Aureliano José são meio irmãos eles têm a mesma mãe, mas não o mesmo pai.
+Precisamos criar uma função que verifica se duas pessoas são meio irmãos!
 
 Para que você possa resolver este exercício, definimos para você as funções `maeDe` e `paiDe`, que, recebendo um filho (string), retorna o nome (string) da mãe ou pai conforme apropriado. Exemplo:
 
 ```javascript
-ム paiDe(aurelianoJose)
-"Coronel Aureliano"
-ム maeDe(aurelianoSegundo)
-"Sofía De La Piedad"
+ム paiDe(cleoPires)
+"Fábio Júnior"
+ム maeDe(cleoPires)
+"Glória Pires"
 ```
 
-> Agora é a sua vez de nos ajudar a entender melhor o romance Cem Anos de Solidão. Para isso, você terá que definir 3 funções:
+> Agora é a sua vez de criar as funções:
 `temAMesmaMae` que tem dois filhos por parâmetro e retornará `true` ou` false` se eles realmente compartilharem a mesma mãe. Sabendo disso você pode usar a função que nós lhe damos  `maeDe`.  
 
 > `temOMesmoPai` que como o anterior, pega dois filhos por parâmetro e retorne `true` ou` false` se eles compartilharem o mesmo pai. Sabendo disso você pode usar a função que nós lhe damos `paiDe`.  

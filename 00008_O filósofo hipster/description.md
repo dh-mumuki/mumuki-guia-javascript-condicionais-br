@@ -1,4 +1,4 @@
-Como vimos em exercícios anteriores, um operador que é chamado de conjunção lógica `&&` (também chamado de "E"), que só retorna `true` quando ambas as expressões são verdadeiras.
+Como vimos em exercícios anteriores, um operador que é chamado de conjunção lógica `&&` (também chamado de e), que só retorna true quando ambas as expressões são verdadeiras.
 
 Da mesma forma, já sabemos que podemos unir várias expressões para serem avaliadas por este operador e se alguma delas não for verdadeira (`false`) o resultado final será falso.
 
@@ -13,7 +13,7 @@ recitaisRealizados, gravouAlgumCd) {
 }
 ```
 
-Podemos perceber que para um cantor ser considerado um bom cantor, ele precisa ter participado de pelo menos 10 CDs, tenha realizado 20 ou mais recitais e que tenha gravado algum CDs.
+Podemos perceber que é necessário que um cantor não tenha gravado um DVD para ser considerado bem-sucedido 😞 mesmo que tenha editado 10 ou mais CDs e tenha realizado 20 ou mais recitais.
 
 Como sempre, agora é a sua vez.
 
