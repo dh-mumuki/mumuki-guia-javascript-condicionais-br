@@ -2,6 +2,7 @@ const mariaDeLosRemedios = {
   nome: "María De Los Remedios"
 };
 
+
 const pedroTernera = {
   nome: "Pedro Ternera"
 };
@@ -48,7 +49,7 @@ const cleo = {
 
 const fiuk = {
   nome: "Pilar Ternera",
-  mae: cristina Karthalian,
+  mae: cristinaKarthalian,
   pai: pedroTernera
 };
 
