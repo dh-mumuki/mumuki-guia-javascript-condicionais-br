@@ -50,7 +50,7 @@ const cleo = {
 const fiuk = {
   nome: "Pilar Ternera",
   mae: cristinaKarthalian,
-  pai: pedroTernera
+  pai: fabioJunior
 };
 
 const ursulaIguaran = {
