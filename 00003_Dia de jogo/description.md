@@ -8,7 +8,7 @@ if (eDiaEnsolarado == true) {
 
 E comentamos que sempre que valor de **eDiaEnsolarado** seja exatamente igual a `true`, vamos executar o seguinte bloco de código que se encontra dentro das `{}`.
 
-Muito bem, porém o que podemos fazer se o dia não está ensolarado?. É aí que entra o else, a outra parte do if. Ficaria assim:
+Muito bem, porém o que podemos fazer se o dia não está ensolarado?. É aí que entra o `else`, a outra parte do `if`. Ficaria assim:
 
 ```javascript
 if (eDiaEnsolarado == true) {
@@ -18,7 +18,7 @@ if (eDiaEnsolarado == true) {
 }
 ```
 
-A condicional `else` nos permite executar um bloco de código, caso a condição do `if` não se cumpra, porém o else tem apenas duas partes:
+A condicional `else` nos permite executar um bloco de código, caso a condição do `if` não se cumpra, porém o `else` tem apenas duas partes:
 
 1. A palavra reservada `else`.
 2. O bloco de código que se executa caso a condição do `if` não se cumpra.

@@ -71,11 +71,11 @@ const remedios = {
 };
 
 function maeDe(persona) {
-  return persona.mae.nome;
+  return persona.madre.nome;
 };
 
 function paiDe(persona) {
-  return persona.pai.nome;
+  return persona.padre.nome;
 };
 
 function temOMesmoPai(unaPersona, otraPersona) {
