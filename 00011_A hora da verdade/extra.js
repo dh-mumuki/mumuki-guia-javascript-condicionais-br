@@ -111,5 +111,6 @@ function temAMesmaMae(unaPersona, otraPersona) {
 };
  
 function saoMeioIrmaos(unaPersona, otraPersona) {
-  return temAMesmaMae(unaPersona, otraPersona) && !temOMesmoPai(unaPersona, otraPersona) || !temAMesmaMae(unaPersona, otraPersona) && TemOMesmoPai(unaPersona, otraPersona);
+  return temAMesmaMae(unaPersona, otraPersona) && !temOMesmoPai(unaPersona, otraPersona) || !temAMesmaMae(unaPersona, otraPersona) && T
+  temOMesmoPai(unaPersona, otraPersona);
 };
