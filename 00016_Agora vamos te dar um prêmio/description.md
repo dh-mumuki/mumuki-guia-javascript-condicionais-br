@@ -10,9 +10,13 @@ Se executarmos a função com as seguintes posições, o resultado seria assim:
 ```javascript
 ム medalhaSegundoOPosto(1)
 "ouro"
+ム medalhaSegundoOPosto(2)
+"prata"
+ム medalhaSegundoOPosto(3)
+"bronze"
 ムmedalhaSegundoOPosto(5)
-""
+"Continue participando"
 ```
 
-> Define, a função `medalhaSegundoOPosto`. Dica: nessa função você pode usar vários `if`.
+> Defina a função `medalhaSegundoOPosto` que recebe o posto como parâmetro e retorna um texto de acordo com o parâmetro. Dica: nessa função você pode usar vários `if`.
 
