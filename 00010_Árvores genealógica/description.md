@@ -9,7 +9,7 @@ Para que você possa resolver este exercício, definimos para você as funções
 "Glória Pires"
 ```
 
-> Agora é a sua vez de criar as variáveis:
+> Agora é a sua vez de criar as funções:
 `temAMesmaMae` que tem dois filhos por parâmetro e retornará `true` ou` false` se eles realmente compartilharem a mesma mãe. Sabendo disso você pode usar a função que nós lhe damos  `maeDe`.  
 
 > `temOMesmoPai` que como o anterior, pega dois filhos por parâmetro e retorne `true` ou` false` se eles compartilharem o mesmo pai. Sabendo disso você pode usar a função que nós lhe damos `paiDe`.  
