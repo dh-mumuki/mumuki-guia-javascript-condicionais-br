@@ -51,11 +51,11 @@ Como você pode ver, a função `diaDaSemana` recebe um dia (string) por parâme
 
 Perfeito! Agora é a sua vez. Mostre que o texto acima foi completamente claro. Para fazer isso, ajude-nos a resolver o seguinte:
 
-Podemos dizer que é um número da sorte se o número for:
+Podemos dizer que é um número da sorte se o número:
 
 1. é positivo, e por sua vez
 2. é um múltiplo de 2 ou 3 e, por sua vez,
 3. não é 15
 
-> Escreva a função `eNumeroDaSorte` que, recebendo um número, diz a Mariana se é um número da sorte. Lembre-se de que o número deve obedecer às três condições mencionadas.
+> Escreva a função `eNumeroDaSorte` que, recebendo um número, diz a se é um número da sorte. Lembre-se de que o número deve obedecer às três condições mencionadas.
 Seu desafio adicional será: NÃO use o `if`.
