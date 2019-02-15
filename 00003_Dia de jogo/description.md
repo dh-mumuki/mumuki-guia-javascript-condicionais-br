@@ -8,7 +8,7 @@ if (eDiaEnsolarado == true) {
 
 E comentamos que sempre que valor de **eDiaEnsolarado** seja exatamente igual a `true`, vamos executar o seguinte bloco de código que se encontra dentro das `{}`.
 
-Muito bem, porém o que podemos fazer se o dia não está ensolarado?. É aí que entra o else, a outra parte do `if`. Ficaria assim:
+Muito bem, porém o que podemos fazer se o dia não está ensolarado?. É aí que entra o `else`, a outra parte do `if`. Ficaria assim:
 
 ```javascript
 if (eDiaEnsolarado == true) {
