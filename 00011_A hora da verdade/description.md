@@ -33,6 +33,6 @@ E o valor booleano final resultará de operá-los através da função `saoMeioI
 </table>
 > Teste sua função `saoMeioIrmaos` com os seguintes valores e verifique se ela se comporta como a tabela:
  
-> * `ム saoMeioIrmaos(arcadio, aurelianoJose)`
-> * `ム saoMeioIrmaos(aurelianoSegundo, remédios)`
-> * `ム saoMeioIrmaos(aurelianoJose, remédios)`
+> * `ム saoMeioIrmaos(cleo, fiuk)`
+> * `ム saoMeioIrmaos(aurelianoSegundo, remedios)`
+> * `ム saoMeioIrmaos(aurelianoJose, remedios)`
