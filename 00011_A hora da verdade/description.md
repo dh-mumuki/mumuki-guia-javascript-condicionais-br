@@ -34,5 +34,4 @@ E o valor booleano final resultará de operá-los através da função `saoMeioI
 > Teste sua função `saoMeioIrmaos` com os seguintes valores e verifique se ela se comporta como a tabela:
  
 > * `ム saoMeioIrmaos(cleo, fiuk)`
-> * `ム saoMeioIrmaos(aurelianoSegundo, remedios)`
-> * `ム saoMeioIrmaos(aurelianoJose, remedios)`
+> * `ム saoMeioIrmaos(sandy, junior)`

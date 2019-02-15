@@ -18,6 +18,14 @@ const cristinaKarthalian = {
   nome: "Cristina Karthalian"
 };
 
+const noelyLima = {
+  nome: "Noely Lima"
+};
+
+const xororo = {
+  nome: "Xororó"
+};
+
 const sofiaMontiel = {
   nome: "Sofía Montiel"
 };
@@ -40,8 +48,8 @@ const cleo = {
 
 const fiuk = {
   nome: "Pilar Ternera",
-  mae: cristinaKarthalian,
-  pai: fabioJunior
+  mae: cristina Karthalian,
+  pai: pedroTernera
 };
 
 const ursulaIguaran = {
@@ -94,6 +102,18 @@ const remedios = {
   pai: arcadio
 };
 
+const sandy = {
+  nome: "Sandy",
+  mae: noelyLima,
+  pai: xororo
+};
+
+const junior = {
+  nome: "Junior",
+  mae: noelyLima,
+  pai: xororo
+};
+
 function maeDe(persona) {
   return persona.mae.nome;
 };
@@ -111,5 +131,5 @@ function temAMesmaMae(unaPersona, otraPersona) {
 };
  
 function saoMeioIrmaos(unaPersona, otraPersona) {
-  return temAMesmaMae(unaPersona, otraPersona) && !temOMesmoPai(unaPersona, otraPersona) || !temAMesmaMae(unaPersona, otraPersona) &&temOMesmoPai(unaPersona, otraPersona);
+  return temAMesmaMae(unaPersona, otraPersona) && !temOMesmoPai(unaPersona, otraPersona) || !temAMesmaMae(unaPersona, otraPersona) && TemOMesmoPai(unaPersona, otraPersona);
 };
