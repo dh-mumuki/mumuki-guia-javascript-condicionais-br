@@ -7,4 +7,4 @@ Agora, precisamos de suas ótimas habilidades para definir a função `sinal`, q
 * 0 se o  número é zero
 * -1, se o número é negativo
 
-> Portanto, vamos definir a função "sinal", para alcançar o objetivo desejado. DICA: Lembre-se que você pode precisar usar mais de um `if`.
+> Portanto, vamos definir a função **sinal**, para alcançar o objetivo desejado. DICA: Lembre-se que você pode precisar usar mais de um `if`.
