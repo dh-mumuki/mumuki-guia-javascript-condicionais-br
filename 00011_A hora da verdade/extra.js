@@ -2,7 +2,6 @@ const mariaDeLosRemedios = {
   nome: "María De Los Remedios"
 };
 
-
 const pedroTernera = {
   nome: "Pedro Ternera"
 };
@@ -132,5 +131,5 @@ function temAMesmaMae(unaPersona, otraPersona) {
 };
  
 function saoMeioIrmaos(unaPersona, otraPersona) {
-  return temAMesmaMae(unaPersona, otraPersona) && !temOMesmoPai(unaPersona, otraPersona) || !temAMesmaMae(unaPersona, otraPersona) && TemOMesmoPai(unaPersona, otraPersona);
+  return temAMesmaMae(unaPersona, otraPersona) != temOMesmoPai(unaPersona, otraPersona) ;
 };
