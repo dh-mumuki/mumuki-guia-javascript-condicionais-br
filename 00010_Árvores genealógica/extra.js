@@ -65,6 +65,19 @@ const fiuk = {
   pai: fabioJunior
 };
 
+const sandy = {
+  nome: "Sandy",
+  mae: noelyLima,
+  pai: xororo
+};
+
+
+const junior = {
+  nome: "Junior",
+  mae: noelyLima,
+  pai: xororo
+};
+
 const sofiaDeLaPiedad = {
   nome: "Sofía De La Piedad",
   mae: sofiaMontiel,
