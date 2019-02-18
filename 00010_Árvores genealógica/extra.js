@@ -58,6 +58,13 @@ const cleoPires = {
   pai: fabioJunior
 };
 
+
+const fiuk = {
+  nome: "Fiuk",
+  mae: cristinaKarthalian,
+  pai: fabioJunior
+};
+
 const sofiaDeLaPiedad = {
   nome: "Sofía De La Piedad",
   mae: sofiaMontiel,
