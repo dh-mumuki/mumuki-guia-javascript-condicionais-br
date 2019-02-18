@@ -6,6 +6,10 @@ const fabioJunior = {
   nome: "Fabio Júnior"
 };
 
+const cristinaKarthalian = {
+  nome: "Cristina Karthalian"
+};
+
 const mariaDeLosRemedios = {
   nome: "María De Los Remedios"
 };
