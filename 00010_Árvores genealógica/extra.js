@@ -10,7 +10,7 @@ const cristinaKarthalian = {
   nome: "Cristina Karthalian"
 };
 
-const noelyLime = {
+const noelyLima = {
   nome: "Noely Lima"
 };
 
