@@ -52,6 +52,12 @@ const coronelAureliano = {
   pai: joseArcadioPadre
 };
 
+const cleoPires = {
+  nome: "Cleo Pires",
+  mae: gloriaPires,
+  pai: fabioJunior
+};
+
 const sofiaDeLaPiedad = {
   nome: "Sofía De La Piedad",
   mae: sofiaMontiel,
