@@ -1,15 +1,15 @@
-it("arcadio e aurelianoJose são meio irmãos", function() {
-  assert.equal(saoMeioIrmaos(arcadio, aurelianoJose), true);
+it("cleoPires e fiuk são meio irmãos", function() {
+  assert.equal(saoMeioIrmaos(cleoPires, fiuk), true);
 })
 
-it("aurelianoSegundo e remedios não são meio irmãos", function() {
-  assert.equal(saoMeioIrmaos(aurelianoSegundo, remedios), false);
+it("sandy e junior não são meio irmãos", function() {
+  assert.equal(saoMeioIrmaos(sandy, junior), false);
 })
 
-it("aurelianoSegundo e aurelianoJose não são meio irmãos", function() {
-  assert.equal(saoMeioIrmaos(aurelianoSegundo, aurelianoJose), false);
+it("sandy e fiuk não são meio irmãos", function() {
+  assert.equal(saoMeioIrmaos(sandy, fiuk), false);
 })
 
-it("remedios e arcadio não são meio irmãos", function() {
+it("junior e fiuk não são meio irmãos", function() {
   assert.equal(saoMeioIrmaos(remedios, arcadio), false);
 })
