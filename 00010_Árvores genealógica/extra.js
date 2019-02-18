@@ -1,3 +1,11 @@
+const gloriaPires = {
+  nome: "Glória Pires"
+};
+
+const fabioJunior = {
+  nome: "Fabio Júnior"
+};
+
 const mariaDeLosRemedios = {
   nome: "María De Los Remedios"
 };
