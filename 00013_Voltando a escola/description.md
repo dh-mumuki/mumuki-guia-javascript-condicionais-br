@@ -18,7 +18,7 @@ Agora que vimos que Javascript segue a mesma **precedência** que a matemática.
 Vamos ver um exemplo disso em uma função:
 
 ```javascript
-Function pagarComCartao
+function pagarComCartao
 (temJuros, taxasDoCartao, dinheiroDisponivel) {
   return !temJuros && taxasDoCartao >= 3 || dinheiroDisponivel < 100;
 }
