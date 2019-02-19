@@ -17,7 +17,7 @@ Podemos perceber que é necessário que um cantor não tenha gravado um DVD para
 
 > Defina a função `filosofoHipster` que recebe como parâmetro: a profissão de uma pessoa (string), nacionalidade (string) e o número de quilômetros que ele anda por dia (número). 
 Com esses parâmetros avalie se essa pessoa é ou não (`true / false`), um filósofo Hipster. 
-Tenha em mente que um filósofo Hipster é um músico, nascido no Brasil e que gosta de andar mais de 2 quilômetros por dia.
+Tenha em mente que um filósofo Hipster é um Músico, nascido no Brasil e que gosta de andar mais de 2 quilômetros por dia.
 
 
 ```javascript

@@ -1,0 +1,1 @@
+Atenção ao modo de escrever a profissão e o país, letras maiúsculas e minúsculas e acentos fazem a diferença.
