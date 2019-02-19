@@ -1,4 +1,4 @@
-No parque de diversões da cidade, eles instalaram uma nova montanha-russa e nos pediram ajuda para que pudéssemos notificar as pessoas, se poderiam entrar ou não, antes de fazer a fila. Os requisitos para uma pessoa escalar a atração são:
+No parque de diversões da cidade, eles instalaram uma nova montanha-russa e nos pediram ajuda para que pudéssemos notificar as pessoas, se poderiam entrar ou não, antes de fazer a fila. Os requisitos para uma pessoa poder entrar  no brinquedo são:
 
 * Atingir a altura mínima de 1,5 m (ou 1,2 m, se acompanhada por um adulto)
 * Não ter qualquer problema cardíaco
