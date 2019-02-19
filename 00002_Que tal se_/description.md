@@ -31,7 +31,7 @@ if (eDiaEnsolarado == true) {
 }
 ```
 
-No exemplo anterior, `eDiaEnsolarado` seria uma variável que armazena um valor booleano, e sempre que  esse valor for exatamente igual a `true`, vamos executar bloco de código que se encontra dentro das chaves  `{}`,  nesse caso, o `console.log`. Está fazendo mais sentido não?
+No exemplo anterior, `eDiaEnsolarado` seria uma variável que armazena um valor booleano, e sempre que  esse valor for exatamente igual a `true`, vamos executar bloco de código que se encontra dentro das chaves  `{}`,  nesse caso, o `console.log`.
 
 Vamos fazer uma pequena prática para ir entendendo o conceito.
 
