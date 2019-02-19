@@ -1,4 +1,4 @@
-Seguindo as abordagens filosóficas e analisando a seguinte tabela, podemos concluir que, na lógica booleana, o comportamento de uma expressão pode ser definido por meio de uma tabela de verdade. Onde A e B são expressões que avaliam `true` ou` false` e ​​usam o símbolo ^ (que representa a conjunção deles), podemos determinar se a união deles gera True ou False.
+Seguindo as abordagens filosóficas e analisando a seguinte tabela, podemos concluir que, na lógica booleana, o comportamento de uma expressão pode ser definido por meio de uma tabela de verdade. Onde A e B são expressões que avaliam `true` ou` false` e usam o símbolo ^ (que representa a conjunção deles), podemos determinar se a união deles gera True ou False.
 
 
 <table class="table table-striped table-bordered table-condensed text-center">
