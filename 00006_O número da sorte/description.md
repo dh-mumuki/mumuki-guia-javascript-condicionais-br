@@ -18,8 +18,6 @@ function eMaiorDeIdade(idade) {
   return idade >= 18;
 }
 ```
-
-Maravilhoso, não é? É por isso que o JavaScript é demais!
  
 Agora, o que aconteceria se quiséssemos ter mais condições para serem avaliadas, querendo que todas fossem atendidas? A única coisa que precisamos é usar o operador `&&` (que é lido como 'e'). Vamos ver um exemplo:
 
@@ -30,7 +28,7 @@ function estaEntre(numero, base, limite) {
 ```
 A função anterior retornará **true** se` numero` for maior que` base` e por sua vez menor que `limite`. Caso contrário, se estas condições não forem cumpridas, retornaremos **false**.
 
-Ótimo, você não acha? Mas e se quiséssemos que uma função retornasse 'true' com apenas uma das condições sendo atendida? Para isso, podemos usar o operador `||` (que é lido como 'ou'). Vamos ver isso:
+Mas e se quiséssemos que uma função retornasse 'true' com apenas uma das condições sendo atendida? Para isso, podemos usar o operador `||` (que é lido como 'ou'). Vamos ver isso:
 
 ```javascript
 function eMaiorOuMenor(numero1, numero2, numero3) {
@@ -38,23 +36,23 @@ function eMaiorOuMenor(numero1, numero2, numero3) {
 }
 ```
 
-Neste cenário, a função `eMaiorOuMenor` retornará `true` se `numero2` for maior que `numero1` ou se `numero2` for menor que `numero3`. Com qualquer uma das condições sendo verdadeira, ela retornará `true`. Logicamente, se nenhuma das duas condições for verdadeira, a função retornará `false`. Super claro, não é?
+Neste cenário, a função `eMaiorOuMenor` retornará `true` se `numero2` for maior que `numero1` ou se `numero2` for menor que `numero3`. Com qualquer uma das condições sendo verdadeira, ela retornará `true`. Logicamente, se nenhuma das duas condições for verdadeira, a função retornará `false`.
 
-Outro cenário possível é talvez aquele em que queremos perguntar se algo é diferente de outra coisa. Você se lembra do operador **!**? Isso é chamado de **negação** ou não. Vamos ver isso em ação:
+Outro cenário possível é talvez aquele em que queremos perguntar se algo é diferente de outra coisa. Você se lembra do operador **!**? Isso é chamado de **negação**. Vamos ver isso um exemplo:
 
 ```javascript
 function eDiaDeTrabalho(diaDaSemana) {
   return diaDaSemana!= 'Sábado' && diaDaSemana!= 'Domingo';
 }
 ```
-Como você pode ver, a função `diaDaSemana` recebe um dia (string) por parâmetro e retornará `true` se `diaDaSemana` não for domingo ou sábado. Caso contrário, se o dia for domingo ou sábado, ele retornará `false`.
+A função `diaDaSemana` recebe um dia (string) por parâmetro e retornará `true` se `diaDaSemana` não for domingo e não for sábado. Caso contrário, se o dia for domingo ou sábado, ele retornará `false`.
 
 Perfeito! Agora é a sua vez. Mostre que o texto acima foi completamente claro. Para fazer isso, ajude-nos a resolver o seguinte:
 
 Podemos dizer que é um número da sorte se o número:
 
-1. é positivo, e por sua vez
-2. é um múltiplo de 2 ou 3 e, por sua vez,
+1. é positivo
+2. é um múltiplo de 2 ou 3
 3. não é 15
 
 > Escreva a função `eNumeroDaSorte` que, recebendo um número, diz a se é um número da sorte. Lembre-se de que o número deve obedecer às três condições mencionadas.
