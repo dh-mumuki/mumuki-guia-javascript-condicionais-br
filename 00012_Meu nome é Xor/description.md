@@ -30,4 +30,4 @@ Este comportamento existe como um operador dentro da lógica e é chamado `xor` 
  
 Ao contrário de `e` e` ou`, o `xor` geralmente não é definido nas linguagens de programação. :cry: No entanto, agora que você sabe como funciona, se precisar, você pode defini-lo manualmente. :wink:
 
-> Vamos ver se você entendeu: Eu defini a função `xor`, que pega dois valores booleanos como parâmetro e retorna o valor de verdade correspondente de acordo com a tabela. DICA: é mais simples do que você pensa, você pode resolvê-lo na mesma linha do `return` e talvez você tenha que usar o símbolo de negação `! `.
+> Vamos ver se você entendeu: Defina a função `xor`, que pega dois valores booleanos como parâmetro e retorna o valor correspondente de acordo com a tabela. DICA: é mais simples do que você pensa, você pode resolvê-lo na mesma linha do `return` e talvez você tenha que usar o símbolo de negação `! `.
