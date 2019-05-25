@@ -1,5 +1,4 @@
 <div style="text-align:center;"> 
-</body>
 
 <p>Convidamos você a assistir o seguinte vídeo que irá explicar o significado de condicionais.</p>
 
