@@ -1,1 +1,1 @@
-Quando comaparamos valores utilizamos o sinal de igual duas vezes `==`. 
+Quando comparamos valores utilizamos o sinal de igual duas vezes `==`. 
